@@ -9,6 +9,11 @@ body {
   background-repeat: repeat;
   background-size: 800px;
 }
+h1{
+  text-align: center;
+  color: #eb34a1;
+  font-family: 'Brush Script MT', cursive;
+}
 .card {
   width: 640px;
   height: 400px;
